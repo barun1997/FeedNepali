@@ -3,4 +3,4 @@
 
 ## RSS Feeds
 
-- http://feeds.feedburner.com/onlinekhabar/CuuI
+- OnlineKhabar http://feeds.feedburner.com/onlinekhabar/CuuI
